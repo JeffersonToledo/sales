@@ -7,6 +7,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore" Version="2.1.7" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
+<<<<<<< HEAD
     <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.1.3" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.3.0" PrivateAssets="All" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.1.14" />
@@ -17,6 +18,9 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="2.1.1" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
+=======
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.3.0" PrivateAssets="All" />
+>>>>>>> 547afffc8cfff5adc87fd8a696ae0c60ea4540b1
   </ItemGroup>
 
 </Project>
